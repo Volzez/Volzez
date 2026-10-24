@@ -1,6 +1,10 @@
+<div align="center">
+  <h1>📟 VOLZEZ //: SYSTEM ONLINE</h1>
+  <code>[SYSTEM]... INITIALIZING DEV ENVIRONMENT // [STATUS]... READY</code>
+</div>
+
 ---
 
-<!-- ABOUT ME / MINIMALIST ACCORDION SECTION -->
 ### 📟 Terminal Diagnostics
 
 * **Current Directives:** Building low-latency architectures and tinkering with next-gen systems.
@@ -11,42 +15,16 @@
 
 ### ⚡ Tech Matrix // System Loadout
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  
-  <br />
-  
-  <!-- Frameworks & Tools -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `JavaScript` `TypeScript` `Python` `Rust` |
+| **Tools & Frameworks** | `React` `Next.js` `Docker` `Linux` |
 
 ---
 
 ### 📊 Telemetry & Live Core Metrics
 
-<p align="center">
-  <!-- Hyper-Colorful GitHub Stats Card -->
-  <img src="https://vercel.app" width="48%" />
-  
-  <!-- Hyper-Colorful Language Breakdown Card -->
-  <img src="https://vercel.app" width="48%" />
-</p>
+* 💻 **Host:** `Volzez`
+* 🌐 **Location:** `LOCALHOST // GRID_COORD`
+* 🛠️ **Environment Status:** Active deployment tracking active below.
 
-<p align="center">
-  <!-- Dynamic Activity Streak Card -->
-  <img src="https://herokuapp.com" width="97%" />
-</p>
-
----
-
-<!-- FOOTER LOGOUT SIGNALS -->
-<p align="right">
-  <code>CONNECTION CLOSE // 200 OK</code>
-</p>
