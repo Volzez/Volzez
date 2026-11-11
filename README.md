@@ -55,7 +55,7 @@
 <!--START_SECTION:recent-->
 | Repo | What it is | Lang | Updated |
 |:--|:--|:--|:--|
-| [**cpp-programs**](https://github.com/Volzez/cpp-programs) | Practice programs and lab exercises in C++ | `C++` | 58d ago |
+| [**cpp-programs**](https://github.com/Volzez/cpp-programs) | Practice programs and lab exercises in C++ | `C++` | 59d ago |
 | [**http-server-cpp**](https://github.com/Volzez/http-server-cpp) ⭐2 | A simple HTTP server built from scratch in C++ using TCP/IP sockets. Unix-based systems only (Linux & macOS). | `C++` | 106d ago |
 | [**volzez.github.io**](https://github.com/Volzez/volzez.github.io) | — | — | 110d ago |
 | [**system-monitor**](https://github.com/Volzez/system-monitor) ⭐1 | system monitor: CPU, RAM and GPU | `Python` | 210d ago |
@@ -81,4 +81,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volzez&layout=compact&theme=radical&hide_border=true" height="150" alt="top langs" />
 </p>
 
-<sub>🤖 Sections above are regenerated automatically by GitHub Actions. Last scan: <!--START_SECTION:updated-->2026-11-11 03:48 UTC<!--END_SECTION:updated--></sub>
+<sub>🤖 Sections above are regenerated automatically by GitHub Actions. Last scan: <!--START_SECTION:updated-->2026-11-11 13:13 UTC<!--END_SECTION:updated--></sub>
