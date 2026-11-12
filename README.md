@@ -56,11 +56,11 @@
 | Repo | What it is | Lang | Updated |
 |:--|:--|:--|:--|
 | [**cpp-programs**](https://github.com/Volzez/cpp-programs) | Practice programs and lab exercises in C++ | `C++` | 60d ago |
-| [**http-server-cpp**](https://github.com/Volzez/http-server-cpp) ⭐2 | A simple HTTP server built from scratch in C++ using TCP/IP sockets. Unix-based systems only (Linux & macOS). | `C++` | 107d ago |
-| [**volzez.github.io**](https://github.com/Volzez/volzez.github.io) | — | — | 111d ago |
-| [**system-monitor**](https://github.com/Volzez/system-monitor) ⭐1 | system monitor: CPU, RAM and GPU | `Python` | 211d ago |
-| [**Inkwell**](https://github.com/Volzez/Inkwell) | Inkwell is a minimalist, distraction-free note-taking app for Windows. Designed for speed and simplicity, it gives you a clean space to type, store, and organize your thoughts instantly. | — | 271d ago |
-| [**streamlit-demo2**](https://github.com/Volzez/streamlit-demo2) | — | `Python` | 278d ago |
+| [**http-server-cpp**](https://github.com/Volzez/http-server-cpp) ⭐2 | A simple HTTP server built from scratch in C++ using TCP/IP sockets. Unix-based systems only (Linux & macOS). | `C++` | 108d ago |
+| [**volzez.github.io**](https://github.com/Volzez/volzez.github.io) | — | — | 112d ago |
+| [**system-monitor**](https://github.com/Volzez/system-monitor) ⭐1 | system monitor: CPU, RAM and GPU | `Python` | 212d ago |
+| [**Inkwell**](https://github.com/Volzez/Inkwell) | Inkwell is a minimalist, distraction-free note-taking app for Windows. Designed for speed and simplicity, it gives you a clean space to type, store, and organize your thoughts instantly. | — | 272d ago |
+| [**streamlit-demo2**](https://github.com/Volzez/streamlit-demo2) | — | `Python` | 279d ago |
 <!--END_SECTION:recent-->
 
 ---
@@ -81,4 +81,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volzez&layout=compact&theme=radical&hide_border=true" height="150" alt="top langs" />
 </p>
 
-<sub>🤖 Sections above are regenerated automatically by GitHub Actions. Last scan: <!--START_SECTION:updated-->2026-11-12 14:17 UTC<!--END_SECTION:updated--></sub>
+<sub>🤖 Sections above are regenerated automatically by GitHub Actions. Last scan: <!--START_SECTION:updated-->2026-11-12 22:58 UTC<!--END_SECTION:updated--></sub>
