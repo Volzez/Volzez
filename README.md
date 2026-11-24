@@ -56,10 +56,10 @@
 | Repo | What it is | Lang | Updated |
 |:--|:--|:--|:--|
 | [**cpp-programs**](https://github.com/Volzez/cpp-programs) | Practice programs and lab exercises in C++ | `C++` | 71d ago |
-| [**http-server-cpp**](https://github.com/Volzez/http-server-cpp) ⭐2 | A simple HTTP server built from scratch in C++ using TCP/IP sockets. Unix-based systems only (Linux & macOS). | `C++` | 118d ago |
-| [**volzez.github.io**](https://github.com/Volzez/volzez.github.io) | — | — | 122d ago |
-| [**system-monitor**](https://github.com/Volzez/system-monitor) ⭐1 | system monitor: CPU, RAM and GPU | `Python` | 222d ago |
-| [**Inkwell**](https://github.com/Volzez/Inkwell) | Inkwell is a minimalist, distraction-free note-taking app for Windows. Designed for speed and simplicity, it gives you a clean space to type, store, and organize your thoughts instantly. | — | 282d ago |
+| [**http-server-cpp**](https://github.com/Volzez/http-server-cpp) ⭐2 | A simple HTTP server built from scratch in C++ using TCP/IP sockets. Unix-based systems only (Linux & macOS). | `C++` | 119d ago |
+| [**volzez.github.io**](https://github.com/Volzez/volzez.github.io) | — | — | 123d ago |
+| [**system-monitor**](https://github.com/Volzez/system-monitor) ⭐1 | system monitor: CPU, RAM and GPU | `Python` | 223d ago |
+| [**Inkwell**](https://github.com/Volzez/Inkwell) | Inkwell is a minimalist, distraction-free note-taking app for Windows. Designed for speed and simplicity, it gives you a clean space to type, store, and organize your thoughts instantly. | — | 283d ago |
 | [**streamlit-demo2**](https://github.com/Volzez/streamlit-demo2) | — | `Python` | 290d ago |
 <!--END_SECTION:recent-->
 
@@ -81,4 +81,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volzez&layout=compact&theme=radical&hide_border=true" height="150" alt="top langs" />
 </p>
 
-<sub>🤖 Sections above are regenerated automatically by GitHub Actions. Last scan: <!--START_SECTION:updated-->2026-11-23 16:51 UTC<!--END_SECTION:updated--></sub>
+<sub>🤖 Sections above are regenerated automatically by GitHub Actions. Last scan: <!--START_SECTION:updated-->2026-11-24 03:37 UTC<!--END_SECTION:updated--></sub>
